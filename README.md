@@ -1,7 +1,7 @@
 #### <h1 align="center"> 👋 Привет, меня зовут Наталья!</h1>
 #### <h3 align="center">QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-<img align="right" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/11.jpg">
+<img align="right" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/4848223_0.png">
 <br>
 
 ### Немного о себе
