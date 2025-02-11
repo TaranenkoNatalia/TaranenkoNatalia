@@ -16,6 +16,7 @@
 🎮 В свободное время увлекаюсь видеоиграми  
 
 ### <h2> <img width="3%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/chat.png">   Как связаться со мной</h2>
+[![LinkedIn Badge](https://img.shields.io/badge/-@nataliataranenko-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nataliataranenko/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nataliataranenko.work@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/natalkoos)
 
 ### <h2> <img width="3%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/archives.png">   Тестовые артефакты</h2>
