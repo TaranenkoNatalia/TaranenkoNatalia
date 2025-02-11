@@ -3,7 +3,7 @@
 <p>Меня зовут Наталья, я QA Engineer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p> 
 
 <h2>Немного о себе</h2>
-<img align="right" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/4848223_0.png" width="350" height="350">
+<img align="right" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/4848223_0%20(1).png">
 
 ✅ Завершила курс по функциональному тестированию ПО и продолжаю развиваться в этой сфере   
 📌 О моем опыте:   
