@@ -4,7 +4,7 @@
 Убеждена, что тестирование — это не просто поиск багов, а вклад в удобство и качество продукта.</p> 
 
 ### <h2> <img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/coffee.png">   Немного о себе</h2>
-<img align="right" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/negative_testing.png" width="350">
+<img align="right" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/negative_testing.png" width="350"> 
 
 ✅ Завершила курс по функциональному тестированию ПО и продолжаю развиваться в этой сфере   
 📌 Немного о моем опыте:   
