@@ -30,7 +30,7 @@
 <li>  <a href="https://github.com/TaranenkoNatalia/web">Тестирования веб-приложений</a>  </li>
 <li>  <a href="https://github.com/TaranenkoNatalia/api">Тестирование REST и SOAP API в Postman </a>   </li>
 <li> <a href="https://github.com/TaranenkoNatalia/database">Работа с базами данных MySQL и MongoDB</a>   </li>
-<li>  <a href="https://github.com/TaranenkoNatalia/mobile"> Тестирование мобильных приложений (Android Studio, снифферы: Charles Proxy, Fiddler)</a>   </li>
+<li>  <a href="https://github.com/TaranenkoNatalia/mobile"> Тестирование мобильных приложений (Android Studio, Charles)</a>   </li>
 <li> <a href="https://github.com/TaranenkoNatalia/git_bash">Работа с git и bash</a>  </li>
 </ul>
 </p>
@@ -45,7 +45,7 @@
 | 💾 Работа с данными | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | ✏️ Работа с кодом | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
-### <h2> <img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/certification.png">   Пройденные курсы:</h2>
+### <h2> <img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/certification.png">   Пройденные курсы</h2>
 
 | Курс                                                            | Дата              |
 | ----------------------------------------------------------------| :---------------: |
