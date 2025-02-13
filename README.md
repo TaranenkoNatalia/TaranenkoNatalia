@@ -1,10 +1,10 @@
 
-<h2><img width="3%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/ladybug.png"> Привет! Здесь о моей работе и практике в QA-тестировании </h2>
+<h2><img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/ladybug.png"> Привет! Здесь о моей работе и практике в QA-тестировании </h2>
 <p>Меня зовут Наталья, я QA Engineer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">    
 Убеждена, что тестирование — это не просто поиск багов, а вклад в удобство и качество продукта.</p> 
 
 ### <h2> <img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/coffee.png">   Немного о себе</h2>
-<img align="right" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/4848223_0%20(1).png">
+<img align="right" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/negative_testing.png" width="350">
 
 ✅ Завершила курс по функциональному тестированию ПО и продолжаю развиваться в этой сфере   
 📌 Немного о моем опыте:   
@@ -15,11 +15,11 @@
 📄 Буду рада, если вы ознакомитесь с моим резюме  
 🎮  В свободное время увлекаюсь видеоиграми, особенно серией Souls — люблю сложные механики, анализ паттернов и поиск стратегий 
 
-### <h2> <img width="3%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/chat.png">  Свяжитесь со мной</h2>
+### <h2> <img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/chat.png">  Свяжитесь со мной</h2>
 [![LinkedIn Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nataliataranenko/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nataliataranenko.work@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/natalkoos)
 
-### <h2> <img width="3%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/archives.png">   Тестовые артефакты</h2>
+### <h2> <img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/archives.png">   Тестовые артефакты</h2>
 
 Здесь собраны тестовые артефакты из моих репозиториев, созданные в процессе обучения и практики.
 <p> 
@@ -35,7 +35,7 @@
 </ul>
 </p>
 
-### <h2> <img width="3%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/cogwheel.png">   Инструменты и технологии</h2>
+### <h2> <img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/cogwheel.png">   Инструменты и технологии</h2>
 
 | Категория | Инструменты |
 |-----------|------------|
@@ -45,7 +45,7 @@
 | 💾 Работа с данными | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | ✏️ Работа с кодом | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
-### <h2> <img width="3%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/certification.png">   Пройденные курсы:</h2>
+### <h2> <img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/certification.png">   Пройденные курсы:</h2>
 
 | Курс                                                            | Дата              |
 | ----------------------------------------------------------------| :---------------: |
