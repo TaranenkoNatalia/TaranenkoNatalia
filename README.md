@@ -11,7 +11,7 @@
 🔹 Тестирование веб- и мобильных приложений  
 🔹 Составление тестовой документации (чек-листы, тест-кейсы, баг-репорты)   
 🔹 Работа с API (REST, SOAP) и базами данных (MySQL, MongoDB)  
-📂 Мои учебные проекты можно найти на <a href="https://github.com/TaranenkoNatalia?tab=repositories">GitHub</a>  
+📂 Мои учебные проекты можно найти на [GitHub](#тестовые-артефакты) 
 📄 Буду рада, если вы ознакомитесь с моим резюме  
 🎮  В свободное время увлекаюсь видеоиграми, особенно серией Souls — люблю сложные механики, анализ паттернов и поиск стратегий 
 
@@ -19,21 +19,19 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nataliataranenko/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nataliataranenko.work@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/natalkoos)
 
-### <h2> <img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/archives.png">   Тестовые артефакты</h2>
+### <h2 id="тестовые-артефакты"> <img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/archives.png"> Тестовые артефакты</h2>
 
 Здесь собраны тестовые артефакты из моих репозиториев, созданные в процессе обучения и практики.
-<p> 
  <ul>
 <li>  <a href="https://github.com/TaranenkoNatalia/theory">Анализ требований и макета</a>  </li>
 <li>  <a href="https://github.com/TaranenkoNatalia/design">Применение техник тест-дизайна (классы эквивалентности, граничные значения, pairwise)</a>  </li>
 <li>  <a href="https://github.com/TaranenkoNatalia/docs">Составление тестовой документации (чек-листы, тест-кейсы, баг-репорты)</a>  </li>
-<li>  <a href="https://github.com/TaranenkoNatalia/web">Тестирования веб-приложений</a>  </li>
+<li>  <a href="https://github.com/TaranenkoNatalia/web">Тестирование веб-приложений</a>  </li>
 <li>  <a href="https://github.com/TaranenkoNatalia/api">Тестирование REST и SOAP API в Postman </a>   </li>
 <li> <a href="https://github.com/TaranenkoNatalia/database">Работа с базами данных MySQL и MongoDB</a>   </li>
 <li>  <a href="https://github.com/TaranenkoNatalia/mobile"> Тестирование мобильных приложений (Android Studio, Charles)</a>   </li>
 <li> <a href="https://github.com/TaranenkoNatalia/git_bash">Работа с git и bash</a>  </li>
 </ul>
-</p>
 
 ### <h2> <img width="4%" src="https://github.com/TaranenkoNatalia/TaranenkoNatalia/blob/main/attachments/cogwheel.png">   Инструменты и технологии</h2>
 
