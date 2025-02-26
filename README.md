@@ -47,7 +47,7 @@
 
 | Курс                                                            | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-|<li>  <a href="https://rusau.net/qa-from-scratch">Функциональное тестирование ПО</li> | 11/2024 - 02/2025 |
+|<li>  <a href="https://drive.google.com/file/d/1YegAvQr1IS6ub6AByhxq-jjgOWA8X8st/view?usp=sharing">Функциональное тестирование ПО</li> | 11/2024 - 02/2025 |
 
 
 
